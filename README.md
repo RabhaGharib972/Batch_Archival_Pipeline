@@ -31,7 +31,7 @@ HDFS (Archive / Data Lake Layer)
 ### Architecture Diagram
 
 
-![Pipeline Architecture](screenshots/pipeline-architecture.png)
+![Pipeline Architecture](screenshots/pipeline-architecture.jfif)
 
 
 
